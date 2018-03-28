@@ -1,2 +1,2 @@
-# tools
-Just some simple python tools
+# Tools
+Just some simple Python tools and scripts.
